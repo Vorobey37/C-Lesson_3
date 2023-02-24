@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\bin\Debug\net6.0\for_in_for.exe
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\bin\Debug\net6.0\for_in_for.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\bin\Debug\net6.0\for_in_for.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\bin\Debug\net6.0\for_in_for.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\bin\Debug\net6.0\for_in_for.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\for_in_for.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\for_in_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\for_in_for.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\for_in_for.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\for_in_for.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\for_in_for.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\refint\for_in_for.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\for_in_for.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\for_in_for.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\for_in_for\obj\Debug\net6.0\ref\for_in_for.dll
