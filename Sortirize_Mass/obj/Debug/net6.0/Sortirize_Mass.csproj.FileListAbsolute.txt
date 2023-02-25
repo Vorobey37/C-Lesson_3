@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\bin\Debug\net6.0\Sortirize_Mass.exe
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\bin\Debug\net6.0\Sortirize_Mass.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\bin\Debug\net6.0\Sortirize_Mass.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\bin\Debug\net6.0\Sortirize_Mass.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\bin\Debug\net6.0\Sortirize_Mass.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\Sortirize_Mass.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\Sortirize_Mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\Sortirize_Mass.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\Sortirize_Mass.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\Sortirize_Mass.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\Sortirize_Mass.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\refint\Sortirize_Mass.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\Sortirize_Mass.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\Sortirize_Mass.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Sortirize_Mass\obj\Debug\net6.0\ref\Sortirize_Mass.dll
