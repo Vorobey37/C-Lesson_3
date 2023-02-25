@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\Find_And_Change.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\Find_And_Change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\Find_And_Change.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\Find_And_Change.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\Find_And_Change.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\bin\Debug\net6.0\Find_And_Change.exe
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\bin\Debug\net6.0\Find_And_Change.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\bin\Debug\net6.0\Find_And_Change.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\bin\Debug\net6.0\Find_And_Change.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\bin\Debug\net6.0\Find_And_Change.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\Find_And_Change.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\refint\Find_And_Change.dll
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\Find_And_Change.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\Find_And_Change.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Лекции по C#\Lesson_3\Find_And_Change\obj\Debug\net6.0\ref\Find_And_Change.dll

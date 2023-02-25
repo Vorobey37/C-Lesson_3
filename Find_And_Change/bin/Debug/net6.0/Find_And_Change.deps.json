@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Find_And_Change/1.0.0": {
+        "runtime": {
+          "Find_And_Change.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_And_Change/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
